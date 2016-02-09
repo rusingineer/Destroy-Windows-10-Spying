@@ -1,4 +1,4 @@
-# Destroy Windows 10 Spying
+# Destroy Windows 10 Spying CE
 
 Features:
   - Remove all spyware modules
